@@ -1061,3 +1061,178 @@ body {
     transform: scale(1);
   }
 }
+/* ================= MOBILE & TABLET RESPONSIVE ================= */
+
+@media (max-width: 768px) {
+
+  /* Layout */
+  .valentine-root {
+    padding: 2.5rem 1.2rem;
+  }
+
+  .card {
+    padding: 2rem 1.4rem;
+    border-radius: 18px;
+    width: 100%;
+  }
+
+  /* Typography */
+  .title {
+    font-size: 1.6rem;
+  }
+
+  .title .name {
+    font-size: 2.2rem;
+  }
+
+  .subtitle {
+    font-size: 0.9rem;
+  }
+
+  .question {
+    font-size: 1.3rem;
+  }
+
+  .yay {
+    font-size: 1.6rem;
+    white-space: normal;
+  }
+
+  .love-text {
+    font-size: 2.4rem;
+  }
+
+  /* Buttons */
+  .choices {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .btn,
+  .play-btn {
+    width: 100%;
+  }
+
+  /* Songs Page */
+  .songs-card {
+    max-width: 100%;
+  }
+
+  .song-item {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.6rem;
+  }
+
+  /* Photos Page */
+  .photos-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .photo-frame {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1.1;
+  }
+
+  .photo-caption {
+    font-size: 1rem;
+  }
+
+  /* Envelope */
+  .envelope {
+    width: 260px;
+    height: 160px;
+  }
+
+  /* Letter */
+  .letter-content {
+    padding: 1.6rem;
+  }
+
+  .letter-title {
+    font-size: 1.4rem;
+  }
+
+  .letter-text {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .letter-signature {
+    font-size: 1.1rem;
+  }
+
+  .letter-paper {
+    height: auto;
+  }
+}
+
+
+/* ================= SMALL PHONES ================= */
+
+@media (max-width: 480px) {
+
+  .valentine-root {
+    padding: 2rem 0.9rem;
+  }
+
+  .card {
+    padding: 1.6rem 1rem;
+  }
+
+  .title {
+    font-size: 1.3rem;
+  }
+
+  .title .name {
+    font-size: 1.8rem;
+  }
+
+  .question {
+    font-size: 1.1rem;
+  }
+
+  .yay {
+    font-size: 1.4rem;
+  }
+
+  .love-text {
+    font-size: 2rem;
+  }
+
+  .image-card {
+    width: 190px;
+    height: 190px;
+  }
+
+  .photo-caption {
+    font-size: 0.95rem;
+  }
+
+  .envelope {
+    width: 230px;
+    height: 145px;
+  }
+
+  .letter-title {
+    font-size: 1.2rem;
+  }
+
+  .letter-text {
+    font-size: 0.9rem;
+  }
+
+  .letter-signature {
+    font-size: 1rem;
+  }
+}
+
+
+/* ================= GLOBAL SAFETY ================= */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
