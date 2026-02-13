@@ -25,24 +25,24 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/cute-bear.gif",
+    "musicBearGif": "/music-bear.gif",
+    "comfortBearGif": "/comfort-bear.gif",
+    "kissBearGif": "/kiss-bears.gif",
+    "photoBearGif": "/photo-bear.gif",
+    "loveYouBearGif": "/love-you-bear.gif",
+    "childGif": "/child.gif",
+    "roseBearGif": "/rose-bear.gif",
+    "cookBearGif": "/cook-bear.gif",
+    "kissSingleBearGif": "/kiss-bear.gif",
+    "leftButton": "/left-button.png",
+    "rightButton": "/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/gift/gift1.jpg",
+    "gift2": "/gift/gift2.jpg", 
+    "gift3": "/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
@@ -72,27 +72,27 @@
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/cook-bear.gif",
       "text": "I will cook ur fav foods... every day 🍲😋"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/comfort-bear.gif", 
       "text": "Unlimited foot massages."
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/cute-bear.gif",
       "text": "Will be Laughing for all ur mokka jokes.🤣"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/kiss-bears.gif",
       "text": "Filled with lots of hugs nd kisses.😘"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/photo-bear.gif",
       "text": "Your personal assistant for 1 month unlimited offer grab it soon. 📸😄"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/music-bear.gif",
       "text": "Live singing nd dancing performance just for you. 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "4:51",
       "album": "Jalebi",
       "artist": "",
-      "cover": "/src/assets/album-covers/jalebi.jpg",
-      "audio": "/src/assets/songs/Tera Mera Rishta.mp3"
+      "cover": "/album-covers/jalebi.jpg",
+      "audio": "/songs/Tera Mera Rishta.mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "5:01", 
       "album": "Naanum Rowdy Dhaan",
       "artist": "",
-      "cover": "/src/assets/album-covers/nanum_rowdy_than.jpg",
-      "audio": "/src/assets/songs/neeyum_naanum.mp3"
+      "cover": "/album-covers/nanum_rowdy_than.jpg",
+      "audio": "/songs/neeyum_naanum.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "03:28",
       "album": "Mr & Mrs. Mahi",
       "artist": "",
-      "cover": "/src/assets/album-covers/mr&mrs_mahi.jpg",
-      "audio": "/src/assets/songs/tu_hai_toh.mp3"
+      "cover": "/album-covers/mr&mrs_mahi.jpg",
+      "audio": "/songs/tu_hai_toh.mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "5:43",
       "album": "Varanam Ayiram",
       "artist": "",
-      "cover": "/src/assets/album-covers/varanam_ayiram.jpg",
-      "audio": "/src/assets/songs/mundhinam_parthene.mp3"
+      "cover": "/album-covers/varanam_ayiram.jpg",
+      "audio": "/songs/mundhinam_parthene.mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "3:38",
       "album": "Sita Ramam",
       "artist": "",
-      "cover": "/src/assets/album-covers/sita_ramam.jpg",
-      "audio": "/src/assets/songs/aaromal.mp3"
+      "cover": "/album-covers/sita_ramam.jpg",
+      "audio": "/songs/aaromal.mp3"
     }
   ],
  "letter": {
