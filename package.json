@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/optimize-images.js && vite build",
+   "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "optimize-images": "node scripts/optimize-images.js"
+    "optimize-images": "node scripts/optimize-images.js",
+    "vercel-build": "node scripts/optimize-images.js"
   },
   "dependencies": {
     "bootstrap": "^5.3.0",
