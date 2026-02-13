@@ -1,0 +1,174 @@
+{
+  "names": {
+    "sender": "YOUR CHOTTU",
+    "receiver": "MOTTU"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Patootie",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Boy I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/couple_photo/couple_photo_1.jpeg",
+      "caption": "The moments😍"
+    },
+    {
+      "image": "/couple_photo/couple_photo_2.jpeg", 
+      "caption": "The easiest yes I ever said🥰"
+    },
+    {
+      "image": "/couple_photo/couple_photo_3.jpeg",
+      "caption": "In a flash🤩"
+    },
+    {
+      "image": "/couple_photo/couple_photo_4.jpeg",
+      "caption": "We had fun 😂"
+    },
+    {
+      "image": "/couple_photo/couple_photo_5.jpeg",
+      "caption": "We beamed😊"
+    },
+    {
+      "image": "/couple_photo/couple_photo_6.jpeg",
+      "caption": "We awaiting❤️"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I will cook ur fav foods... every day 🍲😋"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited foot massages."
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "Will be Laughing for all ur mokka jokes.🤣"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Filled with lots of hugs nd kisses.😘"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal assistant for 1 month unlimited offer grab it soon. 📸😄"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing nd dancing performance just for you. 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Tere Mera Rishta",
+      "duration": "4:51",
+      "album": "Jalebi",
+      "artist": "",
+      "cover": "/src/assets/album-covers/jalebi.jpg",
+      "audio": "/src/assets/songs/Tera Mera Rishta.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Neeyum Naanum",
+      "duration": "5:01", 
+      "album": "Naanum Rowdy Dhaan",
+      "artist": "",
+      "cover": "/src/assets/album-covers/nanum_rowdy_than.jpg",
+      "audio": "/src/assets/songs/neeyum_naanum.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Tu Hain Toh",
+      "duration": "03:28",
+      "album": "Mr & Mrs. Mahi",
+      "artist": "",
+      "cover": "/src/assets/album-covers/mr&mrs_mahi.jpg",
+      "audio": "/src/assets/songs/tu_hai_toh.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Mundhinam Paarthene",
+      "duration": "5:43",
+      "album": "Varanam Ayiram",
+      "artist": "",
+      "cover": "/src/assets/album-covers/varanam_ayiram.jpg",
+      "audio": "/src/assets/songs/mundhinam_parthene.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Aaromal",
+      "duration": "3:38",
+      "album": "Sita Ramam",
+      "artist": "",
+      "cover": "/src/assets/album-covers/sita_ramam.jpg",
+      "audio": "/src/assets/songs/aaromal.mp3"
+    }
+  ],
+ "letter": {
+  "title": "Hey Mottu!❤️",
+  "content": [
+    "Thank you for coming into my life. ur enter made my life more lazy🤣",    
+    "Our journey started in a boarding gate😂 randomly seeing a family.. a couple with their new born child travelling somewhere. seeing them i asked u when we travel like this with our baby🤣 do u remember??",
+    "We were not friends nor we spend time together nor I was in ur shift🤷🏻‍♀️ we used see each other once or twice in a month.still I don’t know y I asked u like tht.",
+    "Again on random day…random call. I know i was tipsy nd i said I LOVE YOU. Next day calling up nd saying it’s slip of tongue sorry🤣 then after 1 hour saying come let’s date❤️",
+    "Everything took just seconds. still figuring out how I fell for you. In a blink we were married. Getting married at 22 was never in my plans, and the fact that it’s a love marriage makes it even more unexpected.",
+    "There’s saying everything happens for good. And it’s true. I still believe god and Amma team up together and send me the most amazing gift from heaven.",
+    "After motta, Arun chettan, subhzz nd malu ur the one makes everything right in my life and I feel safe inside ur arms.",
+    "The love for u will be deeper each day. Thank you for everything wht ur doing for me and I love you lot❤️",
+    "Come home early let’s go for valentine date😜"
+  ],
+  "signature": "Yours one nd only\nChoti😍"
+},
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
